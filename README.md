@@ -10,7 +10,6 @@ A modular, extensible backtesting framework built in Python for developing and t
 - **Sample data:** Comes with sample EURUSD forex data for quick testing.
 - **OOP design:** Clean and extensible codebase for further research and development.
 
-## Project Structure
 
 ## Installed Packages
 
